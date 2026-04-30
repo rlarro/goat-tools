@@ -132,7 +132,6 @@ Both forces appear in every chapter, escalating from Ch30 (perks and opportuniti
 
 ### Hard Outs
 
-- **A senior leader's personal life** — OUT. Not the book's story to tell. Two implicit beats only, no labels, no follow-through.
 - **Named lost customer** — OUT. Bundled into broader market framing.
 - **Succession tension between two leaders** — OUT. Land as "succession worked, both promoted."
 - **Specific financial numbers** — OUT. No ARR, board targets, or runway figures.
