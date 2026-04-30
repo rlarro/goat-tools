@@ -133,7 +133,7 @@ Both forces appear in every chapter, escalating from Ch30 (perks and opportuniti
 ### Hard Outs
 
 - **Named lost customer** — OUT. Bundled into broader market framing.
-- **Succession tension between two leaders** — OUT. Land as "succession worked, both promoted."
+- **Tension between two leaders** — OUT. Land as "challenges worked through"
 - **Specific financial numbers** — OUT. No ARR, board targets, or runway figures.
 
 ### What makes this example work
