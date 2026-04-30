@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Build outputs from the build-script (your formatted manuscripts)
+build-script/output/
+build-script/*.docx

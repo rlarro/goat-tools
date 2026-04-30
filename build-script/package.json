@@ -1,0 +1,15 @@
+{
+  "name": "goat-tools-build-script",
+  "version": "1.0.0",
+  "description": "Markdown manuscript to print-ready 6x9 .docx for Amazon KDP",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "Rene Larro",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "docx": "^9.0.3"
+  }
+}
