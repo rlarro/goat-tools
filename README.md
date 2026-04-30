@@ -2,9 +2,9 @@
 
 **A toolkit for writing books with AI.**
 
-These tools were developed over 100+ sessions writing *Too Many Goats on the Mountain*, an 80,000-word memoir, in collaboration with Claude. Every tool here exists because something went wrong without it. None of them were planned. All of them held once they were established.
+These tools were developed over 100+ sessions writing *Too Many Goats on the Mountain*, an 300-page book, in collaboration with Claude. Every tool here exists because something went wrong without it. None of them were planned. All of them held once they were established.
 
-The companion white paper, *"How I Used AI to Write an 80,000-Word Memoir in a Month"*, describes the experience and findings in detail. [INSERT SUBSTACK LINK]
+The companion white paper, *"How I Used AI to Help Write a 300-Page Book in a Month"*, describes the experience and findings in detail. https://rlarro.substack.com/publish/post/196038383
 
 Goat Pad, a purpose-built markdown editor for AI-assisted writing, is a separate project: https://github.com/rlarro/goatpad
 
@@ -52,7 +52,7 @@ This is the process that emerged over 34 chapters. It's described in detail in t
 
 **4. Draft in a fresh session.** Start a new chat. Load the DraftGuide plus the Style Guide plus the last few locked chapters for voice calibration. Draft the chapter. Iterate. When it's close, run the Post-Draft Quality Pass.
 
-**5. Edit offline.** Download the draft and edit in Goat Pad. It was built specifically for this workflow: clean markdown in, clean markdown out, no encoding damage. If you prefer Word, it works, but be warned that round-tripping markdown through Word can introduce smart quote encoding issues, disappearing paragraphs, and formatting damage that takes real time to untangle. Track changes in Word are useful, but the format conversion tax is real. Goat Pad avoids it entirely.
+**5. Edit offline.** Download the draft and edit in GoatPad. It was built specifically for this workflow - clean markdown in, clean markdown out, no encoding damage. If you prefer Word, it works, but be warned that round-tripping markdown through Word can introduce smart quote encoding issues, disappearing paragraphs, and formatting damage that takes real time to untangle. Track changes in Word are useful, but the format conversion tax is real. Goat Pad avoids it entirely.
 
 **6. Housekeeping.** Run the End-of-Session Checklist. Update the manuscript, style guide, and any other project files. Write the session handoff for the next chapter.
 
