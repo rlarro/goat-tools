@@ -10,6 +10,18 @@ Goat Pad, a purpose-built markdown editor for AI-assisted writing, is a separate
 
 ---
 
+## How to use these
+
+These are plain markdown files. No coding required.
+
+- **Read any template in your browser**: click the template name in the table below. GitHub renders markdown beautifully, so you can read the whole thing without downloading.
+- **Use a template with Claude**: copy its contents, paste into a Claude.ai conversation, and replace the `[bracketed placeholders]` with your own project details.
+- **Download everything at once**: click the green **Code** button at the top of this page, then **Download ZIP**.
+
+The build script in `build-script/` requires Node.js. The templates themselves are just text.
+
+---
+
 ## What's in the box
 
 ### Templates
