@@ -4,7 +4,7 @@
 
 These tools were developed over 100+ sessions writing *Too Many Goats on the Mountain*, an 300-page book, in collaboration with Claude. Every tool here exists because something went wrong without it. None of them were planned. All of them held once they were established.
 
-The companion white paper, *"How I Used AI to Help Write a 300-Page Book in a Month"*, describes the experience and findings in detail. https://rlarro.substack.com/publish/post/196038383
+The companion article, *["From Idea to Published Book in 30 Days"](https://rlarro.substack.com/p/from-idea-to-published-book-in-30)*, describes the experience and findings in detail.
 
 Goat Pad, a purpose-built markdown editor for AI-assisted writing, is a separate project: https://github.com/rlarro/goatpad
 
@@ -40,7 +40,7 @@ Every template includes a "Real Example" section at the bottom showing how that 
 
 ## The workflow in brief
 
-This is the process that emerged over 34 chapters. It's described in detail in the white paper.
+This is the process that emerged over 34 chapters. It's described in detail in the article.
 
 **1. Set up your project.** Create a Claude Project. Add your Style Guide. Add any source material (outlines, notes, research, photos). Set up your preferences so Claude knows your voice.
 
@@ -86,4 +86,4 @@ MIT. Use these however you want.
 
 ## About
 
-Built by Rene Larro while writing *Too Many Goats on the Mountain: Thirty Years Inside Silicon Valley Startups*. The book, the white paper, and these tools are all products of the same experience.
+Built by Rene Larro while writing *Too Many Goats on the Mountain: Thirty Years Inside Silicon Valley Startups*. The book, the article, and these tools are all products of the same experience.
